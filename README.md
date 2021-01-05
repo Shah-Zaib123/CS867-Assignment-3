@@ -10,9 +10,10 @@
 ## Usage
 
 ```bash
-**Colab Notebook** Image_Classification_CNN.ipynb
+Colab Notebook Image_Classification_CNN.ipynb
 ```
 
-
+### Dataset
+![Dataset](https://ibb.co/5B6GgJ5)
 
 
