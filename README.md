@@ -14,6 +14,6 @@ Colab Notebook Image_Classification_CNN.ipynb
 ```
 
 ### Dataset
-![Dataset]([url=https://ibb.co/5B6GgJ5][img]https://i.ibb.co/sy2bdXF/Dataset.png[/img][/url])
+![Dataset](https://i.ibb.co/sy2bdXF/Dataset.png)
 
 
