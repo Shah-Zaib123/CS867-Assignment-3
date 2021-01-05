@@ -10,7 +10,7 @@
 ## Usage
 
 ```bash
-Colab Notebook Image_Classification_CNN.py
+**Colab Notebook** Image_Classification_CNN.ipynb
 ```
 
 
