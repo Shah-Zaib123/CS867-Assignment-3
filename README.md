@@ -7,4 +7,12 @@
 * **DataSource:** [Intel Image Classification](https://www.kaggle.com/puneet6060/intel-image-classification)
 
 
+## Usage
+
+```bash
+Colab Notebook Image_Classification_CNN.py
+```
+
+
+
 
