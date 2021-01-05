@@ -5,8 +5,8 @@
 * **CNN Architecture Used:** VGG16
 * **Techniques Used:** Transfer learning And Data Augmentation. 
 * **DataSource:** [Intel Image Classification](https://www.kaggle.com/puneet6060/intel-image-classification)
-* Dataset is in following manner:
-         • **Training set** = 14k+ 150x150 Images in **seg_train** folder for training spread.
-         • **Validation set** = 3k+ 150x150 Images in **seg_test** folder for cross-validation spread.
-         • **Test set** = 7k+ 150x150 Images in **seg_pred** folder as test spread.
+* Dataset is in following manner:\
+         • **Training set** = 14k+ 150x150 Images in **seg_train** folder for training spread.\
+         • **Validation set** = 3k+ 150x150 Images in **seg_test** folder for cross-validation spread.\
+         • **Test set** = 7k+ 150x150 Images in **seg_pred** folder as test spread.\
 
