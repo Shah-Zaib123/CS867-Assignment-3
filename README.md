@@ -15,7 +15,7 @@ Colab Notebook Image_Classification_CNN.ipynb
 
 ### Dataset
 ![Dataset](https://i.ibb.co/sy2bdXF/Dataset.png)
-### Summary of custom CNN Model.
+### Summary of transfer learning based VGG16 pretrained model 
 ![CNN](https://i.ibb.co/HDy6kwL/Capture1.png)
 ![CNN](https://i.ibb.co/r6d1YRf/Capture2.png)
 
