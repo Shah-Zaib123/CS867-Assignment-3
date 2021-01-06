@@ -18,5 +18,7 @@ Colab Notebook Image_Classification_CNN.ipynb
 ### Summary of transfer learning based VGG16 pretrained model 
 ![CNN](https://i.ibb.co/HDy6kwL/Capture1.png)
 ![CNN](https://i.ibb.co/r6d1YRf/Capture2.png)
+### Accuracy on training and validation Data on Base Model(Model without Data_Augmentation).
+![CNN](https://i.ibb.co/MChmv69/Capture1.png)
 
-b
+
