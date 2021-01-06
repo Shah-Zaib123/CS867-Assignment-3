@@ -20,5 +20,9 @@ Colab Notebook Image_Classification_CNN.ipynb
 ![CNN](https://i.ibb.co/r6d1YRf/Capture2.png)
 ### Accuracy on training and validation Data on Base Model(Model without Data_Augmentation).
 ![CNN](https://i.ibb.co/MChmv69/Capture1.png)
+### Training and Validation Performance Graphs of accuracy per epoch on Base Model(Model without Data_Augmentation).
+![CNN](https://i.ibb.co/S7P23mS/Capture2.png)
+### Training and Validation Performance Graphs of loss per epoch on Base Model(Model without Data_Augmentation).
+![CNN](https://i.ibb.co/gMP0DZM/Capture3.png)
 
 
