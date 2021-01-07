@@ -29,14 +29,14 @@ Colab Notebook Image_Classification_CNN.ipynb
 
 
 ### Accuracy on training and validation Data on Model after applying Data_Augmentation.
-![CNN](https://i.ibb.co/Lpx4Rsr/Capture5.png)
+![CNN](https://i.ibb.co/XxckV6y/Capture5.png)
 ### Training and Validation Performance Graphs of accuracy per epoch after applying Data_Augmentation.
-![CNN](https://i.ibb.co/QYtXj6k/Capture6.png)
+![CNN](https://i.ibb.co/z8Gty6G/Capture6.png)
 ### Training and Validation Performance Graphs of loss per epoch after applying Data_Augmentation.
-![CNN](https://i.ibb.co/09KXXqJ/Capture7.png)
+![CNN](https://i.ibb.co/b19PHCX/Capture7.png)
 ### Test Loss and Accuracy evalution after applying Data_Augmentation.
-![CNN](https://i.ibb.co/9W32kmP/Capture8.png)
+![CNN](https://i.ibb.co/f2jzQsf/Capture8.png)
 ### Confusion Matrix after applying Data_Augmentation.
-![CNN](https://i.ibb.co/Qr73BVV/Capture9.png)
+![CNN](https://i.ibb.co/7STwk4w/Capture9.png)
 
 
