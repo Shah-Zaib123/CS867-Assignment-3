@@ -37,8 +37,9 @@ Colab Notebook Image_Classification_CNN.ipynb
 ### Test Loss and Accuracy evalution after applying Data_Augmentation.
 ![CNN](https://i.ibb.co/f2jzQsf/Capture8.png)
 ### Confusion Matrix after applying Data_Augmentation.
+```bash
 ![CNN](https://i.ibb.co/7STwk4w/Capture9.png)
-
+```
 ### Google drive Link for Pre-trained Model weights
 ```bash
 https://drive.google.com/file/d/1-xfCN06vXiJjtJCg_H04bKtzXnFD344G/view?usp=sharing
