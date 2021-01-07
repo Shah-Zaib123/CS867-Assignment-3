@@ -40,4 +40,7 @@ Colab Notebook Image_Classification_CNN.ipynb
 ![CNN](https://i.ibb.co/7STwk4w/Capture9.png)
 
 ### Google drive Link for Pre-trained Model weights
-(https://drive.google.com/file/d/1-xfCN06vXiJjtJCg_H04bKtzXnFD344G/view?usp=sharing)
+```bash
+https://drive.google.com/file/d/1-xfCN06vXiJjtJCg_H04bKtzXnFD344G/view?usp=sharing
+```
+
